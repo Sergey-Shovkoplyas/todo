@@ -1,0 +1,30 @@
+.todo-list-item {
+    vertical-align: middle;
+}
+
+.todo-list-item button i{
+    font-size: 20px;
+}
+
+.todo-list-item button {
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+
+.todo-list-item-title {
+    line-height: 40px;
+}
+
+.todo-list-item span {
+    cursor: pointer;
+}
+
+.todo-list-item.done{
+    text-decoration: line-through;
+}
+
+.todo-list-item.important{
+    color: blue;
+    font-weight: bold;
+}
