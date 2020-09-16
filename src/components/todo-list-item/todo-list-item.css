@@ -28,3 +28,7 @@
     color: blue;
     font-weight: bold;
 }
+
+.todo-list-item-label {
+    line-height: 50px;
+}
